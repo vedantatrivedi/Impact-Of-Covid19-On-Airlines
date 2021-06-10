@@ -1,0 +1,121 @@
+UNIQUE_CARRIER,Description,Sum(REV_ACRFT_DEP_PERF_510)
+04Q,Tradewind Aviation,7366
+09Q,"Swift Air, LLC d/b/a Eastern Air Lines d/b/a Eastern",2825
+0WQ,Avjet Corporation,308
+1AQ,Via Airlines d/b/a Charter Air Transport,568
+1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC",194
+1EQ,"KaiserAir, Inc.",195
+1QQ,City Wings Inc dba Seaflight,3390
+1SQ,Star Marianas Air Inc.,30373
+1TQ,Rhoades Aviation dba Transair,5231
+1WQ,Ultimate JetCharters LLC dba Ultimate Air Shuttle,3305
+1YQ,"Air Charter, Inc d/b/a Air Flamenco",5949
+22Q,Gem Air LLC,285
+27Q,"Jet Aviation Flight Services, Inc.",3828
+2E,Smokey Bay Air Inc.,11274
+2EQ,"J&M Alaska Air Tours, Inc. d/b/a Alaska Air Transit",84
+2HQ,Elite Airways LLC,799
+2LQ,Tropic Ocean Airways LLC,4221
+2O,Island Air Service,10619
+2TQ,Trans Northern Airways d/b/a Air Unlimited Charter Services,522
+34Q,"Polaris Aviation Solutions, LLC",1
+37Q,"Hillwood Airways, LLC  f/k/a   ATX Air Services, LLC",9
+38Q,Key Lime Air Corporation,3592
+3AQ,"Maritime Helicopters, Inc.",5316
+3BQ,"Nealco Air Charter Services, Inc.  d/b/a  Watermakers Air",1243
+3DQ,"Rectrix Aviation, Inc.",3962
+3E,"Multi-Aero, Inc. d/b/a Air Choice One",14005
+3EQ,"Scott Aviation, LLC  d/b/a  Silver Air",1404
+3F,"Pacific Airways, Inc.",5227
+3M,Silver Airways,21293
+4B,Boutique Air,35805
+4W,Warbelow,5472
+5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,6374
+5X,United Parcel Service,139284
+5Y,Atlas Air Inc.,34320
+7H,"Corvus Airlines, Inc d/b/a Era Aviation d/b/a Ravn Alaska",19800
+7S,Ryan Air f/k/a Arctic Transportation,16483
+8C,Air Transport International,17679
+8E,Bering Air Inc.,31898
+8V,Wright Air Service,17322
+9E,Endeavor Air Inc.,263150
+9K,Cape Air,97937
+9S,Southern Air Inc.,5870
+9X,"Southern Airways Express, dba Mokulele Airlines",28510
+AA,American Airlines Inc.,1022440
+AAT,Air Sunshine Inc.,3288
+ABX,ABX Air Inc,12852
+AMQ,Ameristar Air Cargo,784
+AN,"ADVANCED AIR, LLC",6974
+AS,Alaska Airlines Inc.,276470
+AX,Trans States Airlines,73822
+B6,JetBlue Airways,331972
+C5,"Commutair Aka Champlain Enterprises, Inc.",56605
+CH,Bemidji Airlines,444
+CP,Compass Airlines,98397
+DL,Delta Air Lines Inc.,1073931
+ELL,Ellis Air Taxi Inc.,376
+EM,Empire Airlines Inc.,30392
+EV,ExpressJet Airlines LLC,138967
+F9,Frontier Airlines Inc.,136014
+FX,Federal Express Corporation,283602
+G4,Allegiant Air,105998
+G7,GoJet Airlines LLC d/b/a United Express,80065
+GCH,Grand Canyon Helicopters,376
+GFQ,Gulf And Caribbean Cargo,3057
+GL,Miami Air International,2392
+GV,Grant Aviation,53579
+H6,Hageland Aviation Service,95147
+HA,Hawaiian Airlines Inc.,86603
+HBQ,Harris Air Services,2424
+I4,Scott Air LLC dba Island Air Express,4411
+J5,Kalinin Aviation LLC d/b/a Alaska Seaplanes,21719
+K2,"Paklook Air, Inc d/b/a/ Airlift Alaska d/b/a/ Yute Commuter Service",19749
+K3,Venture Travel LLC d/b/a Taquan Air Service,8061
+KAH,Kenmore Air Harbor,14777
+KAQ,Kalitta Air LLC,10989
+KAT,Katmai Air,3606
+KD,Western Global,3317
+KH,Aloha Air Cargo,8512
+KLQ,Kalitta Charters II,3975
+KO,Alaska Central Express,12317
+KS,Peninsula Airways Inc.,5560
+L2,Lynden Air Cargo Airlines,3037
+LF,CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,13874
+M6,Amerijet International,3703
+MQ,Envoy Air,329349
+MW,"Mokulele Flight Services, Inc.",21378
+N8,National Air Cargo Group Inc d/ba National Airlines,902
+NC,Northern Air Cargo Inc.,5580
+NEW,New England Airlines Inc.,8242
+NK,Spirit Air Lines,213885
+OH,PSA Airlines Inc.,285588
+OO,SkyWest Airlines Inc.,839886
+PFQ,Asia Pacific,608
+PM,"Prescott Support Company, Inc.",18
+PO,Polar Air Cargo Airways,4943
+PT,Piedmont Airlines,122096
+Q5,40-Mile Air,618
+QX,Horizon Air,125573
+RVQ,"Reeve Air Alaska, LLC",208
+SEB,"Seaborne Virgin Islands, Inc.",10985
+SI,Sierra Pacific Airlines,1051
+SNK,Spernak Airways Inc.,3158
+SY,Sun Country Airlines d/b/a MN Airlines,28250
+U7,USA Jet Airlines Inc.,2561
+UA,United Air Lines Inc.,710030
+V8,Iliamna Air Taxi,5604
+VI,Vieques Air Link Inc.,16934
+WI,Sky Lease Cargo,1004
+WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines",1743
+WN,Southwest Airlines Co.,1350617
+WST,Friday Harbor Seaplanes,940
+X4,Air Excursions LLC,2575
+X9,Omni Air International LLC,2888
+XP,XTRA Airways,107
+YR,"Grand Canyon Airlines, Inc. d/b/a Grand Canyon Airlines d/b/a Scenic Airlines",17385
+YV,Mesa Airlines Inc.,234892
+YX,Republic Airline,329141
+Z3,"Bidzy Ta Hot Aana, Inc. d/b/a Tanana Air Service",4062
+Z3Q,"PM Air, LLC",3574
+ZW,Air Wisconsin Airlines Corp,103036

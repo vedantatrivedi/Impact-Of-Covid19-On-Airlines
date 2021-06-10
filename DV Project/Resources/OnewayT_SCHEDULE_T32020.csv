@@ -1,0 +1,114 @@
+UNIQUE_CARRIER,Description,Sum(REV_ACRFT_DEP_PERF_510)
+04Q,Tradewind Aviation,4502
+09Q,"Swift Air, LLC d/b/a Eastern Air Lines d/b/a Eastern",7334
+1EQ,"KaiserAir, Inc.",158
+1QQ,City Wings Inc dba Seaflight,864
+1SQ,Star Marianas Air Inc.,12356
+1TQ,Rhoades Aviation dba Transair,4740
+1WQ,Ultimate JetCharters LLC dba Ultimate Air Shuttle,1131
+1YQ,"Air Charter, Inc d/b/a Air Flamenco",2758
+22Q,Gem Air LLC,142
+27Q,"Jet Aviation Flight Services, Inc.",866
+2E,Smokey Bay Air Inc.,4985
+2EQ,"J&M Alaska Air Tours, Inc. d/b/a Alaska Air Transit",446
+2HQ,Elite Airways LLC,151
+2LQ,Tropic Ocean Airways LLC,2297
+2O,Island Air Service,8637
+34Q,"Polaris Aviation Solutions, LLC",1
+38Q,Key Lime Air Corporation,2375
+3AQ,"Maritime Helicopters, Inc.",3098
+3BQ,"Nealco Air Charter Services, Inc.  d/b/a  Watermakers Air",569
+3E,"Multi-Aero, Inc. d/b/a Air Choice One",9397
+3EQ,"Scott Aviation, LLC  d/b/a  Silver Air",962
+3F,"Pacific Airways, Inc.",76
+3M,Silver Airways,7184
+4B,Boutique Air,23311
+4W,Warbelow,2752
+5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,5709
+5X,United Parcel Service,115750
+5Y,Atlas Air Inc.,24004
+7H,"Corvus Airlines, Inc d/b/a Era Aviation d/b/a Ravn Alaska",2664
+7S,Ryan Air f/k/a Arctic Transportation,17507
+8C,Air Transport International,15892
+8E,Bering Air Inc.,22665
+8V,Wright Air Service,13692
+9E,Endeavor Air Inc.,142855
+9K,Cape Air,60464
+9S,Southern Air Inc.,6980
+9X,"Southern Airways Express, dba Mokulele Airlines",25567
+AA,American Airlines Inc.,448130
+AAT,Air Sunshine Inc.,761
+ABX,ABX Air Inc,10538
+AMQ,Ameristar Air Cargo,478
+AN,"ADVANCED AIR, LLC",4553
+AS,Alaska Airlines Inc.,109758
+AX,Trans States Airlines,17318
+B6,JetBlue Airways,117179
+C5,"Commutair Aka Champlain Enterprises, Inc.",22053
+CH,Bemidji Airlines,354
+CP,Compass Airlines,15097
+DL,Delta Air Lines Inc.,433691
+ELL,Ellis Air Taxi Inc.,272
+EM,Empire Airlines Inc.,21244
+EV,ExpressJet Airlines LLC,50738
+F9,Frontier Airlines Inc.,64718
+FX,Federal Express Corporation,208849
+G4,Allegiant Air,68371
+G7,GoJet Airlines LLC d/b/a United Express,26865
+GCH,Grand Canyon Helicopters,134
+GFQ,Gulf And Caribbean Cargo,2480
+GL,Miami Air International,589
+GV,Grant Aviation,40508
+H6,Hageland Aviation Service,13785
+HA,Hawaiian Airlines Inc.,31233
+I4,Scott Air LLC dba Island Air Express,2631
+J5,Kalinin Aviation LLC d/b/a Alaska Seaplanes,9966
+K2,"Paklook Air, Inc d/b/a/ Airlift Alaska d/b/a/ Yute Commuter Service",13236
+K3,Venture Travel LLC d/b/a Taquan Air Service,3741
+KAH,Kenmore Air Harbor,5392
+KAQ,Kalitta Air LLC,10202
+KAT,Katmai Air,877
+KD,Western Global,1613
+KH,Aloha Air Cargo,5669
+KLQ,Kalitta Charters II,3441
+KO,Alaska Central Express,12647
+KS,Peninsula Airways Inc.,994
+L2,Lynden Air Cargo Airlines,2442
+LF,CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,8660
+M6,Amerijet International,3295
+MQ,Envoy Air,155885
+MW,"Mokulele Flight Services, Inc.",492
+N8,National Air Cargo Group Inc d/ba National Airlines,673
+NC,Northern Air Cargo Inc.,4265
+NEW,New England Airlines Inc.,5129
+NK,Spirit Air Lines,101732
+OH,PSA Airlines Inc.,137886
+OO,SkyWest Airlines Inc.,426439
+PFQ,Asia Pacific,399
+PM,"Prescott Support Company, Inc.",71
+PO,Polar Air Cargo Airways,3524
+PT,Piedmont Airlines,55392
+Q5,40-Mile Air,714
+QX,Horizon Air,66968
+RVQ,"Reeve Air Alaska, LLC",156
+SEB,"Seaborne Virgin Islands, Inc.",3564
+SI,Sierra Pacific Airlines,472
+SNK,Spernak Airways Inc.,2296
+SY,Sun Country Airlines d/b/a MN Airlines,11868
+U7,USA Jet Airlines Inc.,1346
+UA,United Air Lines Inc.,241552
+V8,Iliamna Air Taxi,2981
+VI,Vieques Air Link Inc.,8463
+WI,Sky Lease Cargo,517
+WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines",247
+WN,Southwest Airlines Co.,692489
+WST,Friday Harbor Seaplanes,564
+X4,Air Excursions LLC,824
+X9,Omni Air International LLC,2273
+XP,XTRA Airways,7
+YR,"Grand Canyon Airlines, Inc. d/b/a Grand Canyon Airlines d/b/a Scenic Airlines",3328
+YV,Mesa Airlines Inc.,98907
+YX,Republic Airline,154768
+Z3,"Bidzy Ta Hot Aana, Inc. d/b/a Tanana Air Service",2263
+Z3Q,"PM Air, LLC",2244
+ZW,Air Wisconsin Airlines Corp,37308
